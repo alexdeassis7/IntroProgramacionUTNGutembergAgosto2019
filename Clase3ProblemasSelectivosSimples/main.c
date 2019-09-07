@@ -34,8 +34,5 @@ int main()
         printf("su promedio fue de  %.2f",promedio);
         /**cuerpo del else*/
     }
-
-
-
     return 0;
 }
