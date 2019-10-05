@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1570294392 source:c:\users\usuario\documents\clase6 funcionesbis\main.c
+	<stdio.h>
+	<stdlib.h>
+
